@@ -1,0 +1,17 @@
+C:\Users\LEGION\source\repos\TP03_10302233089\TP03_10302233089\obj\Debug\net8.0-windows\TP03_10302233089.csproj.GenerateResource.cache
+C:\Users\LEGION\source\repos\TP03_10302233089\TP03_10302233089\obj\Debug\net8.0-windows\TP03_10302233089.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\source\repos\TP03_10302233089\TP03_10302233089\obj\Debug\net8.0-windows\TP03_10302233089.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\TP03_10302233089\TP03_10302233089\obj\Debug\net8.0-windows\TP03_10302233089.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\TP03_10302233089\TP03_10302233089\obj\Debug\net8.0-windows\TP03_10302233089.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\TP03_10302233089\TP03_10302233089\obj\Debug\net8.0-windows\TP03_10302233089.sourcelink.json
+C:\Users\LEGION\source\repos\TP03_10302233089\TP03_10302233089\bin\Debug\net8.0-windows\TP03_10302233089.exe
+C:\Users\LEGION\source\repos\TP03_10302233089\TP03_10302233089\bin\Debug\net8.0-windows\TP03_10302233089.deps.json
+C:\Users\LEGION\source\repos\TP03_10302233089\TP03_10302233089\bin\Debug\net8.0-windows\TP03_10302233089.runtimeconfig.json
+C:\Users\LEGION\source\repos\TP03_10302233089\TP03_10302233089\bin\Debug\net8.0-windows\TP03_10302233089.dll
+C:\Users\LEGION\source\repos\TP03_10302233089\TP03_10302233089\bin\Debug\net8.0-windows\TP03_10302233089.pdb
+C:\Users\LEGION\source\repos\TP03_10302233089\TP03_10302233089\obj\Debug\net8.0-windows\TP03_10302233089.Form1.resources
+C:\Users\LEGION\source\repos\TP03_10302233089\TP03_10302233089\obj\Debug\net8.0-windows\TP03_10302233089.dll
+C:\Users\LEGION\source\repos\TP03_10302233089\TP03_10302233089\obj\Debug\net8.0-windows\refint\TP03_10302233089.dll
+C:\Users\LEGION\source\repos\TP03_10302233089\TP03_10302233089\obj\Debug\net8.0-windows\TP03_10302233089.pdb
+C:\Users\LEGION\source\repos\TP03_10302233089\TP03_10302233089\obj\Debug\net8.0-windows\TP03_10302233089.genruntimeconfig.cache
+C:\Users\LEGION\source\repos\TP03_10302233089\TP03_10302233089\obj\Debug\net8.0-windows\ref\TP03_10302233089.dll
